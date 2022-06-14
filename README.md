@@ -6,7 +6,11 @@ Especially, if they have character plushies from Fumofumo series (https://en.tou
 If you don't know or new into this knowledge/fan culture, you can ask me in the discussion.
 I also a new fans so I will try my best to explain and let's have a healthy conversation!
 
->> https://github.com/NAIST-SE/AttractingContributors/discussions/407 <<
+**Discussion link:**
+https://github.com/NAIST-SE/AttractingContributors/discussions/407
+
+**This repo link, kindly please to share with the others too:**
+https://github.com/aru1702/AttractingContributors-TouhouFumo
 
 If you wish to add into list below, you can directly clone and pull request after your add your favorite character!
 
