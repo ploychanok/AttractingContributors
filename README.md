@@ -6,11 +6,21 @@ Especially, if they have character plushies from Fumofumo series (https://en.tou
 If you don't know or new into this knowledge/fan culture, you can ask me in the discussion.
 I also a new fans so I will try my best to explain and let's have a healthy conversation!
 
+>> https://github.com/NAIST-SE/AttractingContributors/discussions/407 <<
+
 If you wish to add into list below, you can directly clone and pull request after your add your favorite character!
 
-![fumo?](https://raw.githubusercontent.com/aru1702/AttractingContributors-TouhouFumo/main/1652674635681.jpeg)
+Update: If you only know some part of them, like from which games or how does they look, you can mention me on the discussion! Please see above to enter the discussion.
+
+See more:
+- https://touhou.fandom.com/wiki/Category:Characters
+- https://en.touhouwiki.net/wiki/Category:Characters
+
+![fumo?](https://raw.githubusercontent.com/aru1702/AttractingContributors-TouhouFumo/main/pictures/others/1652674635681.jpeg)
 
 # Attracting Contributors
+My purpose is to get know your idea about the favorite character in Touhou Project. If you have question or comment, please don't hesitate to talk with me on the discussion!
+
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -28,6 +38,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
+
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of your favorite Touhou character
