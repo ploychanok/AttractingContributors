@@ -45,16 +45,22 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# Disclaimer
+This is **not tier base**, it's just list of everyone favorite character.
+
+Sometimes there are two or more person choosing the same character, I will write them as count (2x, 3x, ...)
+
 # List of your favorite Touhou character
-- Remilia Scarlet
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- 👆古明地こいし (Koishi Komeiji)
+- Alice Margatroid
+- レミリア・スカーレット (Remilia Scarlet) **(2x)**
+- Yuyuko Saigoji (from Perfect Cherry Blossom?)
+- Kirisame Marisa (Yukkuri Marisa is also cute)
+- Mizuhashi Parsee
+- Yamada (Eiki/Yamaxanadu) --> やまダ！
+- Reimu Hakurei **(2x)**
+- xxxHolic (circle name?)
+-（ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
 - 
 - 
 -
