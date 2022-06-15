@@ -8,7 +8,7 @@
 かにかま　にぎり　Kanikama Nigiri</br>
 甘エビ Sweet shrimp</br>
 玉子　たまご Egg</br>
-
+うに　Sea urchin　</br>
 # （Example) My favorite sushi
 鮭　サーモン Chum</br>
 マグロ
