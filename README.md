@@ -60,7 +60,7 @@ Sometimes there are two or more person choosing the same character, I will write
 - 
 - 
 - 
-- 
+- Yamada
 - 
 -
 etc...
