@@ -46,9 +46,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of your favorite Touhou character
-- ![Koishi](https://pbs.twimg.com/media/FUkq3eEaIAErWpU?format=jpg)
-- 👆古明地こいし
-- 
+- 👆古明地こいし (Koishi Komeiji)
+- Alice Margatroid
 - 
 - 
 - 
