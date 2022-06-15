@@ -50,7 +50,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Alice Margatroid
 - レミリア・スカーレット (Remilia Scarlet)
 - Yuyuko Saigoji (from Perfect Cherry Blossom?)
-- 
+- Kirisame Marisa (Yukkuri Marisa is also cute)
 - 
 - 
 - 
