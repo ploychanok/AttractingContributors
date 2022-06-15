@@ -48,7 +48,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of your favorite Touhou character
 - 👆古明地こいし (Koishi Komeiji)
 - Alice Margatroid
-- 
+- レミリア・スカーレット (Remilia Scarlet)
 - 
 - 
 - 
