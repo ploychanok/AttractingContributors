@@ -57,10 +57,10 @@ Sometimes there are two or more person choosing the same character, I will write
 - Yuyuko Saigoji (from Perfect Cherry Blossom?)
 - Kirisame Marisa (Yukkuri Marisa is also cute)
 - Mizuhashi Parsee
+- Yamada (Eiki/Yamaxanadu) --> やまダ！
+- Reimu Hakurei 
 - 
 - 
-- 
-- Yamada
 - 
 -
 etc...
