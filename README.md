@@ -59,7 +59,8 @@ Sometimes there are two or more person choosing the same character, I will write
 - Mizuhashi Parsee
 - Yamada (Eiki/Yamaxanadu) --> やまダ！
 - Reimu Hakurei 
-- 
+- xxxHolic (circle name?)
+-（ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
 - 
 - 
 -
