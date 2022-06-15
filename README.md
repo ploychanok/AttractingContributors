@@ -49,7 +49,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - 👆古明地こいし (Koishi Komeiji)
 - Alice Margatroid
 - レミリア・スカーレット (Remilia Scarlet)
-- 
+- Yuyuko Saigoji (from Perfect Cherry Blossom?)
 - 
 - 
 - 
