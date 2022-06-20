@@ -24,3 +24,8 @@ Goal - I want contributors to help me list some favorite Japanese TV drama.
 ・恋なんて、本気でやってどうするの？  
 ・マイファミリー 
 ・Gokushufudō
+・Code Blue
+・僕のいた時間
+・アンナチュラル
+・リーガル・ハイ
+・ガリレオ
