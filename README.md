@@ -24,3 +24,4 @@ Goal - I want contributors to help me list some favorite Japanese TV drama.
 ・恋なんて、本気でやってどうするの？  
 ・マイファミリー 
 ・リーガル・ハイ
+・ガリレオ
